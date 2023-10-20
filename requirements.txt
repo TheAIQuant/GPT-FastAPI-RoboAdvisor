@@ -1,0 +1,14 @@
+beautifulsoup4==4.12.2
+exchange-calendars==4.5
+fastapi==0.97.0
+finnhub-python==2.4.19
+openai==0.28.1
+pandas==2.0.3
+parsel==1.8.1
+peft==0.5.0
+Pillow==10.0.0
+requests==2.31.0
+stockstats==0.6.2
+TA-Lib==0.4.28
+tqdm==4.66.1
+uvicorn==0.22.0
