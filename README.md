@@ -7,9 +7,8 @@ This project demonstrates the creation of a Robo Advisor using Chat GPT from Ope
 ## Features
 
 - Real-time financial news analysis
-- Investment advice generation
+- Trend analysis generation
 - FastAPI web service for user interaction
-- Secure handling of API keys
 
 ## Prerequisites
 
