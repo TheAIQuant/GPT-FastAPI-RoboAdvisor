@@ -53,10 +53,8 @@ FINNHUBAPI_KEY=your_finnhub_api_key
 ```
 
 Run the FastAPI application:
-´´´bash
+```bash
 uvicorn main:app --host 0.0.0.0 --port 8000
-´´´
+```
 
 The Robo Advisor will be accessible at http://127.0.0.1:8000.
-
-This updated section guides users to clone the necessary repositories for integration directly within your project repository.
